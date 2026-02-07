@@ -1,0 +1,8 @@
+baseURL = 'https://rboman.github.io/hugo/'
+languageCode = 'en-us'
+title = 'My Hugo Website'
+theme = 'ananke'
+
+[params]
+  description = "A basic Hugo website deployed on GitHub Pages"
+  author = "rboman"
